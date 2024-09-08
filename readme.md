@@ -2,7 +2,7 @@
 
 Backend server for Mythelix admin system. Interacts with MongoDB, Python image generation server, and Google Cloud Storage.
 
-To be paired with [Mythelix-Image-Generation-Server](https://github.com/Morgs27/Mythelix-Image-Generation-Server)
+To be paired with [Mythelix-Image-Generation-Server](https://github.com/Morgs27/mythelix-image-generator)
 
 The admin client to interact with this server can be found at [Mythelix-Admin-Client](https://github.com/Morgs27/mythelix-admin-client)
 
